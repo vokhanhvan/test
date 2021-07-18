@@ -1,0 +1,202 @@
+.nav-profile-img img {
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+}
+.nav-profile-text p {
+    line-height: 1;
+}
+.text-white {
+    color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link div {
+    color: #fff;
+}
+.grid-margin, .purchase-popup {
+    margin-bottom: 2.5rem;
+}
+.card.card-img-holder .card-img-absolute {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+a {
+	color: #fff;
+}
+.combo img {
+    border-radius: 50%;
+    margin-left: 43px;
+    margin-bottom: 15px;
+
+}
+.combo{
+    text-align: left;
+}
+th, td {
+
+    text-align: center;
+}
+.tieude {
+    background-color: #2E64FE;
+}
+button {
+    margin-right: 71px;
+    border-radius:8px;
+    border: 0; 
+}
+.table th{
+    text-align: center;
+
+}
+.td{
+    text-align: center;
+    color: white;
+}
+.tb{
+    width: 80%;
+    border-style: : solid;
+    text-align: center;
+    background-color: white;
+}
+
+.im{
+    color: black;
+}
+.formthisinh {
+   margin-left: 24%;
+   border: 0px solid black ;
+   background-color: #E0ECF8;
+   padding: 5px;
+   width: 50%;
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 10px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: white;
+  color: black;
+}
+.a {
+  width: 39%;
+  position: absolute;
+}
+
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 10px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: white;
+  color: black;
+}
+.btn {
+    width: 130px;
+    height: 45px;
+    background-color: #2E64FE;
+    border: 0;
+}
+.btn2 {
+    width: 180px;
+    height: 45px;
+    background-color: #2E64FE;
+    border: 0;
+}
+.formkithi {
+   margin-left: 24%;
+   border: 0px solid black ;
+   background-color: #E0ECF8;
+   padding: 5px;
+   width: 50%;
+}
+.container-4{
+  overflow: hidden;
+  width: 300px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.container-4 input#search{
+  width: 300px;
+  height: 50px;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: black;
+  padding-left: 15px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.box{
+  margin-left: 10%;
+
+}
+.container-4 button.icon{
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomright: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+ 
+  border: none;
+  background: #232833;
+  height: 50px;
+  width: 50px;
+  color: #4f5b66;
+  opacity: 0;
+  font-size: 10pt;
+ 
+  -webkit-transition: all .55s ease;
+  -moz-transition: all .55s ease;
+  -ms-transition: all .55s ease;
+  -o-transition: all .55s ease;
+  transition: all .55s ease;
+}
+select {
+  width: 56%;
+  padding: 12px 20px;
+  margin: 10px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: white;
+  color: black;
+}
+.b {
+  width: 30%;
+  position: relative;
+  margin-left: 80%;
+}
+.formcauhoi {
+   margin-left: 24%;
+   border: 0px solid black ;
+   background-color: #E0ECF8;
+   padding: 5px;
+   width: 50%;
+}
+#div2{
+  position: relative;
+  width: 70%;
+  border-radius: .25rem;
+  
+
+}
+#div3{
+  position: absolute;
+  margin-left: 515px;
+  margin-top: 30px;
+  width: 40%;
+}
+.ip{
+  position: absolute;
+  width: 65%;
+}
+.sl{
+  margin-left: 72%;
+}
+.bg-light1{
+  background-color: white;
+}
